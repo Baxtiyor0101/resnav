@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "resnavbar"
-  }
+    "default": "resnavbar",
+    ".": "resnavbar"
+  },
+  "targets": {},
+  "etags": {}
 }
